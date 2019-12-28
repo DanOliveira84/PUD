@@ -32,9 +32,8 @@ insert into cargo values
 ('C4', 'Estoquista', '1200.00'),
 ('C5', 'Contador', '2000.00');
 
-Select * 
-from Estoquista;
-insert into Estoquista values 
+
+insert into FUNCIONARIO values 
 (140,'PEDRO PAULO', 'C4'),
 (150,'FLAVIO', 'C4'),
-(160,'MARCOS','C4')
+(160,'MARCOS','C4');
